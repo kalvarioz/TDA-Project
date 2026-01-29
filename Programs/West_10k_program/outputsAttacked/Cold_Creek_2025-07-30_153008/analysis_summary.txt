@@ -1,0 +1,17 @@
+=== Localized Wildfire Attack TDA Summary ===
+
+Fire Event: Cold Creek 
+Analysis Time: 2025-07-30 15:43:30.292259 
+
+--- Analysis Scope ---
+Area of Interest Radius: 30 miles
+Buses in AOI (Before): 17 
+Buses in AOI (After): 17 
+
+--- Global Cascade Summary ---
+Total Buses Failed (Grid-wide): 205 
+
+--- Local TDA Results ---
+Features Before: 12 
+Features After: 12 
+Topological Change (Wasserstein): 0 

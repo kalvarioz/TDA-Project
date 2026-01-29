@@ -1,0 +1,130 @@
+=== Localized Wildfire Attack TDA Summary ===
+
+Fire Event: Cold Creek 
+Analysis Time: 2025-07-30 14:57:58.867303 
+
+--- Analysis Scope ---
+Area of Interest Radius: 30 miles
+Called from: nrow(local_area_data)
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+          used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells 2497751 133.4    6035753  322.4   6035753  322.4
+Vcells 8153870  62.3  489871712 3737.5 956780686 7299.7
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+Called from: top level 
+           used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells  3042129 162.5    6035753  322.4   6035753  322.4
+Vcells 46316155 353.4  250814317 1913.6 956780686 7299.7
+           used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells  2953420 157.8    6035753  322.4   6035753  322.4
+Vcells 45652096 348.3  200651454 1530.9 956780686 7299.7
+           used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells  2953420 157.8    6035753  322.4   6035753  322.4
+Vcells 45652096 348.3  160521164 1224.7 956780686 7299.7
+           used  (Mb) gc trigger  (Mb)  max used   (Mb)
+Ncells  2953420 157.8    6035753 322.4   6035753  322.4
+Vcells 45652096 348.3  128416932 979.8 956780686 7299.7
+           used  (Mb) gc trigger  (Mb)  max used   (Mb)
+Ncells  2953420 157.8    6035753 322.4   6035753  322.4
+Vcells 45652096 348.3  128416932 979.8 956780686 7299.7
+Called from: cpp_s2_is_valid(as_s2_geography(x, check = FALSE))
+           used  (Mb) gc trigger  (Mb)  max used   (Mb)
+Ncells  2953414 157.8    6035753 322.4   6035753  322.4
+Vcells 45642299 348.3  128416932 979.8 956780686 7299.7
+          used  (Mb) gc trigger  (Mb)  max used   (Mb)
+Ncells 2425569 129.6    6035753 322.4   6035753  322.4
+Vcells 7500214  57.3  102733546 783.8 956780686 7299.7
+          used  (Mb) gc trigger  (Mb)  max used   (Mb)
+Ncells 2364847 126.3    6035753 322.4   6035753  322.4
+Vcells 7398701  56.5   82186837 627.1 956780686 7299.7
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+          used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells 2400584 128.3    6035754  322.4   6035754  322.4
+Vcells 7873738  60.1  139005296 1060.6 956780686 7299.7
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+Called from: top level 
+Called from: cpp_s2_is_valid(as_s2_geography(x, check = FALSE))
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+          used  (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells 2984996 159.5    6035754  322.4   6035754  322.4
+Vcells 9534661  72.8  133509084 1018.6 956780686 7299.7
+=== Wildfire Grid Resilience Explorer ===
+Loading Shiny application...
+✓ Application ready
+=== FIRE CASCADE DEBUG INFORMATION ===
+Graph Information:
+  Vertices: 10000 
+  Edges: 10327 
+  Is connected: FALSE 
+
+Bus Spatial Data:
+  Number of buses: 10728 
+  Has coordinates: TRUE 
+  CRS: EPSG:4326 
+
+Fire Data:
+  Number of polygons: 1 
+  Fire name: CREEK 
+  Intensity levels: Extreme 
+  Has step column: TRUE 
+  Steps available: 2 
+  Polygons per step: 1 
+  Total area: 379881 acres
+  CRS: EPSG:4326 
+  Geometry valid: TRUE 
+
+Fire-Bus Intersection Test:
+  Buses in direct contact: 26 
+  Buses in buffer zone: 0 
+  Total affected buses: 26 
+
+=== END DEBUG INFORMATION ===

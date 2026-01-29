@@ -1,0 +1,24 @@
+=== CORRECTED Net Power Perseus Analysis ===
+Analysis date: 2025-07-28 21:17:13.408164 
+Input file: databases/net_power_difference_normalizedTEST.csv 
+Perseus executable: C:\Users\dinag\Documents\REU-PSU-Research-Project\Programs\West_10k_program\Perseus\perseusWin.exe 
+
+Parameters:
+  Max dimension: 1 
+  Filtration steps (N): 10 
+  Scale increment (s): 0.1 
+  Genus (g): 0 
+  Connectivity (C): 3 
+  Downsample limit: 50 
+  Timeout (seconds): 120 
+
+Results:
+  Total features: 50 
+  Dimension 0 features: 50 
+
+Most persistent features:
+  1. Dim 0: Birth=0.0000, Death=1.0000, Persistence=1.0000
+  2. Dim 0: Birth=0.0000, Death=0.1818, Persistence=0.1818
+  3. Dim 0: Birth=0.0000, Death=0.0909, Persistence=0.0909
+  4. Dim 0: Birth=0.0000, Death=0.0909, Persistence=0.0909
+  5. Dim 0: Birth=0.0000, Death=0.0909, Persistence=0.0909

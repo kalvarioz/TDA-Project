@@ -1,0 +1,8 @@
+=== Localized Wildfire Attack TDA Summary ===
+
+Fire Event: Cold Creek 
+Analysis Time: 2025-07-30 14:14:46.563418 
+
+--- Analysis Scope ---
+Area of Interest Radius: 30 miles
+Called from: nrow(local_area$buses)

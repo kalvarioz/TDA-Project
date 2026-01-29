@@ -1,0 +1,3 @@
+These files are *what* would be outputs of running some tests on the wildfire simulation
+
+The program is not 100% complete and some files contain empty data or odd data.

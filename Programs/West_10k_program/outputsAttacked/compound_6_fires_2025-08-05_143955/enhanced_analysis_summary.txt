@@ -1,0 +1,47 @@
+=== ENHANCED WILDFIRE TDA ANALYSIS SUMMARY ===
+
+COMPOUND FIRE EVENT ANALYSIS
+Event Name:  Compound Event: 6 fires 
+Individual Fires:  Red, HENNESSEY, Claremont, CREEK, HOPKINS, PARK 
+Number of Fires:  6 
+Analysis Time:  2025-08-05 14:40:09.09278 
+Matrix Method:  enhanced_multi_factor 
+
+--- ENHANCED ANALYSIS SCOPE ---
+Analysis Type:  Compound Fire Event 
+Area of Interest Radius:  30  km
+Fire Impact Buffer:  2  km
+Matrix Generation: Enhanced multi-factor approach
+
+--- ENHANCED TDA RESULTS ---
+Features Before Fire:  33 
+Features After Fire:  32 
+Feature Change:  -1 
+Enhanced Wasserstein Distance:  0.00206612 
+Before State Max Persistence:  1 
+Before State Mean Persistence:  0.168044 
+After State Max Persistence:  1 
+After State Mean Persistence:  0.170455 
+
+--- CASCADE IMPACT SUMMARY ---
+Direct Fire Impact:  57  buses
+Cascade Failures:  206  buses
+Total Impact:  263  buses
+Cascade Amplification:  3.61 x
+
+--- ENHANCED ANALYSIS FEATURES ---
+• Multi-factor distance matrices
+• Enhanced variance validation
+• Robust Perseus output parsing
+• Detailed topological logging
+• Advanced visualization generation
+
+--- COMPOUND EVENT SPECIFICS ---
+Fire  1 :  Red 
+Fire  2 :  HENNESSEY 
+Fire  3 :  Claremont 
+Fire  4 :  CREEK 
+Fire  5 :  HOPKINS 
+Fire  6 :  PARK 
+Combined Impact Analysis: Multi-fire cascading topology
+Enhanced Topological Signature: Compound disturbance patterns

@@ -1,0 +1,17 @@
+=== Localized Wildfire Attack TDA Summary ===
+
+Fire Event: CREEK 
+Analysis Time: 2025-07-31 15:54:12.176284 
+
+--- Analysis Scope ---
+Area of Interest Radius: 18.64113 miles
+Buses in AOI (Before): 32 
+Buses in AOI (After): 5 
+
+--- Global Cascade Summary ---
+Total Buses Failed (Grid-wide): 234 
+
+--- Local TDA Results ---
+Features Before: 17 
+Features After: 4 
+Topological Change (Wasserstein): 1.090909 
